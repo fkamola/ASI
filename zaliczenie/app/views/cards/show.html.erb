@@ -1,0 +1,30 @@
+<p id="notice"><%= notice %></p>
+
+<table class="table-condensed">
+<p>
+  <strong>Name:</strong>
+  <%= @card.name %>
+</p>
+
+<p>
+  <strong>Color:</strong>
+  <%= @card.color %>
+</p>
+
+<p>
+  <strong>Cost:</strong>
+  <%= @card.cost %>
+</p>
+
+<p>
+  <strong>Power:</strong>
+  <%= @card.power %>
+</p>
+
+<p>
+  <strong>Toughness:</strong>
+  <%= @card.toughness %>
+</p>
+</table>
+<%= link_to 'Edit', edit_card_path(@card), class: 'btn btn-default btn-sm' %> |
+<%= link_to 'Back', cards_path, class: 'btn btn-default btn-sm' %>
