@@ -1,8 +1,8 @@
 ### Nazwa Zespołu – Filip Kamola
 
 1. Zaliczenie:
- - [ ] [nazwa aplikacji](zaliczenie)
- - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
+ - [ ] [Cards Database](zaliczenie)
+ - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](https://asifkamola-fkamola.c9users.io)
 1. Egzamin:
  - [ ] [nazwa aplikacji](egzamin)
  - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
