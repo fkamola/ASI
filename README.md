@@ -4,8 +4,8 @@
  - [ ] [Cards Database](zaliczenie)
  - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](https://asifkamola-fkamola.c9users.io)
 1. Egzamin:
- - [ ] [nazwa aplikacji](egzamin)
- - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
+ - [ ] [nazwa aplikacji](https://github.com/okoniewskid/Rails)
+ - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](https://kreator-postaci-okoniewskid.c9users.io/)
 
 W plikach _README.md_ należy wpisać:
 
